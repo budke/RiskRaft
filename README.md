@@ -1,0 +1,2 @@
+# RiskRaft
+An investment assistant.
